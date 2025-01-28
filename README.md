@@ -1,6 +1,6 @@
 # Student
 
-#### Technical Skills: Python, SQL, Excellll
+#### Technical Skills: Python, SQL, Excel
 
 ## Education	        		
 - B.A., Management Information Systems | San Diego State University (_Proposed May 2026_)
