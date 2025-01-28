@@ -1,6 +1,6 @@
 title: Owen Walter
-logo: (/assets/IMG_2657.jpeg)
+logo: /assets/img/IMG_2657.png
 description: Management Information Systems Student @ SDSU
 show_downloads: true
-#google_analytics:
+google_analytics:
 theme: jekyll-theme-minimal
